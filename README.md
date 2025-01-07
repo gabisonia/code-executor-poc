@@ -5,6 +5,13 @@ Code Executor is a C# console application that allows users to write and execute
 This proof of concept (POC) currently supports Python execution, with plans to extend support to additional programming languages in the future.
 Executing code inside Docker containers ensures that scripts run in a controlled environment, enhancing security and consistency across different systems.
 
+## Prerequisites
+Before you begin, ensure you have the following installed and running on your computer:
+
+**Docker**: Docker must be installed and the Docker daemon should be running.
+
+**.NET 9.0**: Ensure that .NET 9.0 is installed.
+
 ## Usage
 
 Replace code
